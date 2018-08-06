@@ -1,0 +1,3 @@
+com\rj\configuration\AppInitializer.class
+com\rj\controllers\HomeController.class
+com\rj\configuration\MvcConfiguration.class

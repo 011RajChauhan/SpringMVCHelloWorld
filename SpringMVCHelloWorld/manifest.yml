@@ -1,0 +1,7 @@
+---
+applications:
+ - name: SpringMVCHelloWorld
+   random-route: true
+   path: target/SpringMVCHelloWorld.war
+   memory: 256M
+   instances: 1
