@@ -5,4 +5,3 @@ applications:
    path: target/SpringMVCHelloWorld.war
    memory: 256M
    instances: 1
-   buildpack: java_buildpack
